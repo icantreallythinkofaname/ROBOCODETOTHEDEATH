@@ -1,0 +1,281 @@
+-------
+name = bvh.frg.Friga 0.112dev
+hitByCount = 169
+diedFirst = 9
+shotAttempted = 1255
+shotsHit = 106 (0.08446215139442231)
+damaged = 15.940000000000001
+**************
+Bucket Stats: dk.predict.buckets.BucketsBulletRLVA@5f2e2db3
+bucket r < 250.0 v < -4.8 a < 0.33333333333333326
+  use 8   6 dk.predict.AccelerationalAverage 91 / 180 (0.5055555555555555)
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326
+  use 7   0 dk.predict.Linear 152 / 735 (0.20680272108843537)
+  use 3   6 dk.predict.AccelerationalAverage 134 / 735 (0.18231292517006803)
+bucket r < 375.0 v < 8.0 a < 0.33333333333333326
+  use 9   3 dk.predict.Straight 83 / 641 (0.1294851794071763)
+bucket r < 500.0 v < -4.8 a < -0.33333333333333337
+  use 1   4 dk.predict.Accelerational 20 / 194 (0.10309278350515463)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326
+  use 2   0 dk.predict.Linear 133 / 1723 (0.0771909460243761)
+  use 1   4 dk.predict.Accelerational 128 / 1723 (0.0742890307603018)
+  use 1   6 dk.predict.AccelerationalAverage 135 / 1723 (0.0783517121300058)
+bucket r < 500.0 v < -4.8 a < 1.0
+  use 4   4 dk.predict.Accelerational 17 / 143 (0.11888111888111888)
+bucket r < 500.0 v < -1.5999999999999996 a < -0.33333333333333337
+  use 1   4 dk.predict.Accelerational 17 / 158 (0.10759493670886076)
+bucket r < 500.0 v < -1.5999999999999996 a < 0.33333333333333326
+  use 1   0 dk.predict.Linear 1 / 74 (0.013513513513513514)
+bucket r < 500.0 v < 1.6000000000000014 a < 0.33333333333333326
+  use 10   0 dk.predict.Linear 368 / 414 (0.8888888888888888)
+  use 2   1 dk.predict.Random 102 / 114 (0.8947368421052632)
+bucket r < 500.0 v < 8.0 a < -0.33333333333333337
+  use 1   6 dk.predict.AccelerationalAverage 25 / 190 (0.13157894736842105)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326
+  use 2   3 dk.predict.Straight 200 / 2286 (0.08748906386701662)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326
+  use 15   1 dk.predict.Random 61 / 466 (0.13090128755364808)
+  use 15   3 dk.predict.Straight 107 / 766 (0.13968668407310705)
+**************
+Bucket Stats: dk.predict.buckets.BucketsVelocity@61dd54d6
+bucket < -4.8
+  use 4   1 dk.predict.Random 450 / 4637 (0.09704550355833513)
+  use 12   5 dk.predict.LinearAverage 405 / 4937 (0.08203362365809196)
+  use 29   6 dk.predict.AccelerationalAverage 516 / 4937 (0.10451691310512456)
+bucket < -1.5999999999999996
+  use 32   4 dk.predict.Accelerational 81 / 562 (0.14412811387900357)
+bucket < 1.6000000000000014
+  use 1   0 dk.predict.Linear 394 / 984 (0.40040650406504064)
+  use 1   1 dk.predict.Random 341 / 684 (0.49853801169590645)
+  use 74   2 dk.predict.NarrowRandom 174 / 262 (0.6641221374045801)
+  use 20   4 dk.predict.Accelerational 424 / 984 (0.43089430894308944)
+bucket < 4.800000000000001
+  use 21   4 dk.predict.Accelerational 73 / 534 (0.13670411985018727)
+bucket < 8.0
+  use 60   1 dk.predict.Random 407 / 4125 (0.09866666666666667)
+  use 36   2 dk.predict.NarrowRandom 324 / 3307 (0.0979739945570003)
+  use 1   3 dk.predict.Straight 375 / 4425 (0.0847457627118644)
+  use 28   4 dk.predict.Accelerational 355 / 4425 (0.08022598870056497)
+**************
+Bucket Stats: dk.predict.buckets.BucketsRVA@28c9e5d5
+bucket r < 250.0 v < -4.8 a < 0.33333333333333326
+  use 1   5 dk.predict.LinearAverage 58 / 165 (0.3515151515151515)
+bucket r < 250.0 v < 8.0 a < 0.33333333333333326
+  use 1   4 dk.predict.Accelerational 50 / 138 (0.36231884057971014)
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326
+  use 3   6 dk.predict.AccelerationalAverage 95 / 438 (0.21689497716894976)
+bucket r < 375.0 v < 8.0 a < 0.33333333333333326
+  use 3   1 dk.predict.Random 29 / 243 (0.11934156378600823)
+bucket r < 500.0 v < -4.8 a < -0.33333333333333337
+  use 6   4 dk.predict.Accelerational 42 / 257 (0.16342412451361868)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326
+  use 4   0 dk.predict.Linear 214 / 1801 (0.11882287617990006)
+  use 1   6 dk.predict.AccelerationalAverage 198 / 1801 (0.10993892282065519)
+bucket r < 500.0 v < -1.5999999999999996 a < -0.33333333333333337
+  use 1   4 dk.predict.Accelerational 38 / 129 (0.29457364341085274)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326
+  use 7   0 dk.predict.Linear 130 / 1229 (0.10577705451586655)
+bucket r < 500.0 v < 8.0 a < 1.0
+  use 4   4 dk.predict.Accelerational 29 / 183 (0.15846994535519127)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326
+  use 7   2 dk.predict.NarrowRandom 80 / 821 (0.09744214372716199)
+bucket r < 625.0 v < 1.6000000000000014 a < 0.33333333333333326
+  use 6   0 dk.predict.Linear 368 / 380 (0.968421052631579)
+bucket r < 625.0 v < 8.0 a < 0.33333333333333326
+  use 1   0 dk.predict.Linear 51 / 1444 (0.035318559556786706)
+  use 4   2 dk.predict.NarrowRandom 82 / 742 (0.1105121293800539)
+**************
+Bucket Stats: dk.predict.buckets.BucketsRVAO@69c57dbe
+bucket r < 250.0 v < 8.0 a < 0.33333333333333326 td < 20.0
+  use 1   6 dk.predict.AccelerationalAverage 44 / 116 (0.3793103448275862)
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326 td < 20.0
+  use 4   6 dk.predict.AccelerationalAverage 82 / 391 (0.20971867007672634)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326 td < 10.0
+  use 1   4 dk.predict.Accelerational 22 / 120 (0.18333333333333332)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326 td < 15.0
+  use 8   6 dk.predict.AccelerationalAverage 40 / 286 (0.13986013986013987)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326 td < 20.0
+  use 1   3 dk.predict.Straight 122 / 1388 (0.08789625360230548)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326 td < 15.0
+  use 1   3 dk.predict.Straight 23 / 179 (0.12849162011173185)
+bucket r < 625.0 v < 1.6000000000000014 a < 0.33333333333333326 td < 20.0
+  use 189   0 dk.predict.Linear 355 / 355 (1.0)
+bucket r < 625.0 v < 8.0 a < 0.33333333333333326 td < 20.0
+  use 5   2 dk.predict.NarrowRandom 52 / 494 (0.10526315789473684)
+**************
+Bucket Stats: dk.predict.buckets.BucketsRVAW@47288680
+bucket r < 250.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 2   6 dk.predict.AccelerationalAverage 67 / 151 (0.44370860927152317)
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326 w = far
+  use 5   6 dk.predict.AccelerationalAverage 40 / 189 (0.21164021164021163)
+bucket r < 375.0 v < 8.0 a < 0.33333333333333326 w = near
+  use 7   0 dk.predict.Linear 44 / 363 (0.12121212121212122)
+bucket r < 500.0 v < -4.8 a < -0.33333333333333337 w = near
+  use 3   4 dk.predict.Accelerational 31 / 169 (0.1834319526627219)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 4   0 dk.predict.Linear 173 / 1041 (0.16618635926993275)
+  use 1   3 dk.predict.Straight 104 / 1041 (0.09990393852065321)
+  use 10   6 dk.predict.AccelerationalAverage 141 / 1041 (0.13544668587896252)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326 w = near
+  use 5   0 dk.predict.Linear 95 / 692 (0.13728323699421965)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326 w = far
+  use 1   1 dk.predict.Random 30 / 237 (0.12658227848101267)
+  use 6   3 dk.predict.Straight 75 / 537 (0.13966480446927373)
+bucket r < 500.0 v < 8.0 a < 1.0 w = near
+  use 2   6 dk.predict.AccelerationalAverage 20 / 112 (0.17857142857142858)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 3   3 dk.predict.Straight 83 / 927 (0.0895361380798274)
+bucket r < 625.0 v < 1.6000000000000014 a < 0.33333333333333326 w = near
+  use 60   0 dk.predict.Linear 368 / 373 (0.9865951742627346)
+bucket r < 625.0 v < 8.0 a < 0.33333333333333326 w = far
+  use 3   1 dk.predict.Random 48 / 396 (0.12121212121212122)
+**************
+Bucket Stats: dk.predict.buckets.BucketsRVAAverage@4cd80157
+bucket r < 250.0 v < 8.0 a < 0.33333333333333326
+  use 1   6 dk.predict.AccelerationalAverage 43 / 123 (0.34959349593495936)
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326
+  use 4   6 dk.predict.AccelerationalAverage 92 / 443 (0.2076749435665914)
+bucket r < 500.0 v < 4.800000000000001 a < 1.0
+  use 1   4 dk.predict.Accelerational 19 / 120 (0.15833333333333333)
+bucket r < 500.0 v < 8.0 a < -0.33333333333333337
+  use 1   4 dk.predict.Accelerational 18 / 136 (0.1323529411764706)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326
+  use 8   3 dk.predict.Straight 158 / 1176 (0.13435374149659865)
+bucket r < 625.0 v < -4.8 a < 1.0
+  use 1   3 dk.predict.Straight 20 / 155 (0.12903225806451613)
+bucket r < 625.0 v < 8.0 a < 0.33333333333333326
+  use 1   2 dk.predict.NarrowRandom 61 / 583 (0.10463121783876501)
+**************
+Bucket Stats: dk.predict.buckets.BucketsRLVA@2bd8a254
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326
+  use 5   6 dk.predict.AccelerationalAverage 105 / 512 (0.205078125)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326
+  use 25   0 dk.predict.Linear 186 / 1176 (0.15816326530612246)
+  use 1   4 dk.predict.Accelerational 166 / 1176 (0.141156462585034)
+bucket r < 500.0 v < 4.800000000000001 a < -0.33333333333333337
+  use 7   4 dk.predict.Accelerational 34 / 124 (0.27419354838709675)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326
+  use 9   2 dk.predict.NarrowRandom 101 / 842 (0.11995249406175772)
+bucket r < 625.0 v < 1.6000000000000014 a < 0.33333333333333326
+  use 6   0 dk.predict.Linear 368 / 389 (0.9460154241645244)
+bucket r < 625.0 v < 8.0 a < 0.33333333333333326
+  use 2   0 dk.predict.Linear 68 / 1385 (0.04909747292418772)
+**************
+Bucket Stats: dk.predict.buckets.BucketsRLVAW@69b2121c
+bucket r < 250.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 1   0 dk.predict.Linear 77 / 130 (0.5923076923076923)
+  use 2   6 dk.predict.AccelerationalAverage 76 / 130 (0.5846153846153846)
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 1   6 dk.predict.AccelerationalAverage 61 / 318 (0.1918238993710692)
+bucket r < 375.0 v < 8.0 a < 0.33333333333333326 w = far
+  use 1   0 dk.predict.Linear 21 / 133 (0.15789473684210525)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 13   0 dk.predict.Linear 137 / 733 (0.1869031377899045)
+  use 11   5 dk.predict.LinearAverage 94 / 733 (0.12824010914051842)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326 w = far
+  use 3   0 dk.predict.Linear 49 / 443 (0.11060948081264109)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326 w = near
+  use 27   1 dk.predict.Random 100 / 611 (0.16366612111292964)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326 w = far
+  use 3   3 dk.predict.Straight 85 / 796 (0.10678391959798995)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 1   3 dk.predict.Straight 74 / 817 (0.09057527539779682)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326 w = far
+  use 14   1 dk.predict.Random 65 / 354 (0.18361581920903955)
+bucket r < 625.0 v < 8.0 a < 0.33333333333333326 w = near
+  use 3   1 dk.predict.Random 34 / 493 (0.06896551724137931)
+**************
+Bucket Stats: dk.predict.buckets.BucketsRVAWAverage@6a2d952c
+bucket r < 375.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 9   6 dk.predict.AccelerationalAverage 62 / 268 (0.23134328358208955)
+bucket r < 375.0 v < 8.0 a < 0.33333333333333326 w = near
+  use 6   0 dk.predict.Linear 41 / 349 (0.1174785100286533)
+  use 1   6 dk.predict.AccelerationalAverage 36 / 349 (0.10315186246418338)
+bucket r < 500.0 v < -4.8 a < -0.33333333333333337 w = near
+  use 1   4 dk.predict.Accelerational 22 / 100 (0.22)
+bucket r < 500.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 4   0 dk.predict.Linear 165 / 993 (0.1661631419939577)
+  use 5   1 dk.predict.Random 104 / 693 (0.15007215007215008)
+  use 1   3 dk.predict.Straight 104 / 993 (0.10473313192346426)
+bucket r < 500.0 v < -4.8 a < 1.0 w = far
+  use 1   6 dk.predict.AccelerationalAverage 1 / 45 (0.022222222222222223)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326 w = near
+  use 2   0 dk.predict.Linear 98 / 705 (0.13900709219858157)
+bucket r < 500.0 v < 8.0 a < 0.33333333333333326 w = far
+  use 27   3 dk.predict.Straight 71 / 471 (0.15074309978768577)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326 w = near
+  use 3   3 dk.predict.Straight 81 / 908 (0.08920704845814978)
+bucket r < 625.0 v < -4.8 a < 0.33333333333333326 w = far
+  use 9   1 dk.predict.Random 40 / 246 (0.16260162601626016)
+bucket r < 625.0 v < 8.0 a < 0.33333333333333326 w = far
+  use 10   1 dk.predict.Random 48 / 322 (0.14906832298136646)
+  use 1   3 dk.predict.Straight 77 / 622 (0.12379421221864952)
+**************
+Bucket Stats: dk.predict.buckets.BucketsBulletRLVF@6673f387
+bucket br < 100.0 v < -6.0 fire time < 5.0
+  use 6   0 dk.predict.Linear 142 / 1076 (0.13197026022304834)
+bucket br < 100.0 v < -6.0 fire time < 10.0
+  use 3   3 dk.predict.Straight 117 / 1053 (0.1111111111111111)
+  use 11   6 dk.predict.AccelerationalAverage 129 / 1053 (0.1225071225071225)
+bucket br < 100.0 v < -6.0 fire time < 15.0
+  use 1   0 dk.predict.Linear 109 / 1000 (0.109)
+  use 1   1 dk.predict.Random 62 / 700 (0.08857142857142856)
+bucket br < 100.0 v < -6.0 fire time < 30.0
+  use 8   3 dk.predict.Straight 58 / 319 (0.18181818181818182)
+  use 6   4 dk.predict.Accelerational 54 / 319 (0.16927899686520376)
+bucket br < 100.0 v < -4.0 fire time < 5.0
+  use 1   4 dk.predict.Accelerational 29 / 231 (0.12554112554112554)
+bucket br < 100.0 v < -4.0 fire time < 15.0
+  use 1   4 dk.predict.Accelerational 23 / 225 (0.10222222222222223)
+bucket br < 100.0 v < 0.0 fire time < 10.0
+  use 1   4 dk.predict.Accelerational 15 / 131 (0.11450381679389313)
+bucket br < 100.0 v < 4.0 fire time < 5.0
+  use 1   4 dk.predict.Accelerational 18 / 135 (0.13333333333333333)
+bucket br < 100.0 v < 4.0 fire time < 10.0
+  use 1   4 dk.predict.Accelerational 17 / 122 (0.13934426229508196)
+bucket br < 100.0 v < 4.0 fire time < 15.0
+  use 4   4 dk.predict.Accelerational 26 / 122 (0.21311475409836064)
+bucket br < 100.0 v < 6.0 fire time < 5.0
+  use 11   4 dk.predict.Accelerational 29 / 240 (0.12083333333333333)
+bucket br < 100.0 v < 8.0 fire time < 15.0
+  use 1   1 dk.predict.Random 62 / 826 (0.07506053268765134)
+bucket br < 100.0 v < 8.0 fire time < 30.0
+  use 1   0 dk.predict.Linear 41 / 426 (0.09624413145539906)
+  use 2   1 dk.predict.Random 38 / 126 (0.30158730158730157)
+**************
+Bucket Stats: dk.predict.buckets.BucketsBulletRLVH@8d7271f
+bucket br < 100.0 v < -6.0 hit time < 5.0
+  use 1   0 dk.predict.Linear 37 / 118 (0.3135593220338983)
+bucket br < 100.0 v < -6.0 hit time < 10.0
+  use 1   0 dk.predict.Linear 24 / 116 (0.20689655172413793)
+bucket br < 100.0 v < -6.0 hit time < 15.0
+  use 1   0 dk.predict.Linear 24 / 109 (0.22018348623853212)
+bucket br < 100.0 v < -6.0 hit time < 30.0
+  use 17   1 dk.predict.Random 292 / 2693 (0.1084292610471593)
+  use 2   3 dk.predict.Straight 341 / 2995 (0.11385642737896494)
+  use 3   4 dk.predict.Accelerational 296 / 2995 (0.0988313856427379)
+  use 17   6 dk.predict.AccelerationalAverage 302 / 2995 (0.1008347245409015)
+bucket br < 100.0 v < -4.0 hit time < 30.0
+  use 1   0 dk.predict.Linear 27 / 639 (0.04225352112676056)
+  use 4   6 dk.predict.AccelerationalAverage 50 / 639 (0.0782472613458529)
+bucket br < 100.0 v < -2.0 hit time < 30.0
+  use 2   4 dk.predict.Accelerational 42 / 428 (0.09813084112149532)
+bucket br < 100.0 v < 2.0 hit time < 30.0
+  use 66   1 dk.predict.Random 358 / 616 (0.5811688311688312)
+  use 2   2 dk.predict.NarrowRandom 168 / 250 (0.672)
+  use 17   6 dk.predict.AccelerationalAverage 399 / 916 (0.435589519650655)
+bucket br < 100.0 v < 4.0 hit time < 30.0
+  use 14   4 dk.predict.Accelerational 55 / 438 (0.12557077625570776)
+bucket br < 100.0 v < 6.0 hit time < 30.0
+  use 6   6 dk.predict.AccelerationalAverage 56 / 546 (0.10256410256410256)
+bucket br < 100.0 v < 8.0 hit time < 10.0
+  use 3   3 dk.predict.Straight 19 / 170 (0.11176470588235295)
+bucket br < 100.0 v < 8.0 hit time < 20.0
+  use 1   0 dk.predict.Linear 21 / 134 (0.15671641791044777)
+bucket br < 100.0 v < 8.0 hit time < 30.0
+  use 28   2 dk.predict.NarrowRandom 267 / 2334 (0.11439588688946016)
+  use 3   3 dk.predict.Straight 301 / 3218 (0.09353635798632691)
+---------------
+hit by others = 6
+shots fired = 12
+shots hit = 1 (0.08333333333333333)

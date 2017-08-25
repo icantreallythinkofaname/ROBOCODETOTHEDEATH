@@ -1,0 +1,17 @@
+>>**************************************************<<
+Statistiek bot dft.Immortal 1.40
+>>**************************************************<<
+I fire bullet amount       : 118
+My hit bullet amount       : 10
+                 Hit ratio : 8.474576271186441%
++-------------------------------------+
+Enemy fire bullet amount   : 111
+Enemy  hit bullet amount   : 15
+                 Hit ratio : 13.513513513513514%
++-------------------------------------+
+Pogingen patroonherkenning : 242
+Succes patroonherkenning   : 217
+                     Ratio : 89.6694214876033%
+Gemiddelde patroonlengte   : 25
++-------------------------------------+
+Gemiddelde afstand         : 470.8721466129109

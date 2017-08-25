@@ -1,0 +1,2 @@
+TargetProfile [name=bvh.mini.Wodan 0.50, bulletDodgeFactor=0.00, bulletDodgeWeight=0.00, movementPredictorFactor=0.00, movementPredictorWeight=0.00]
+TargetProfile [name=cf.OldMan.OldManXP 0.1, bulletDodgeFactor=0.00, bulletDodgeWeight=0.00, movementPredictorFactor=2.11, movementPredictorWeight=6.87]

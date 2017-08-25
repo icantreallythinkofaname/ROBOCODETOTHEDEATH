@@ -1,0 +1,17 @@
+>>**************************************************<<
+Statistiek bot ags.rougedc.RougeDC willow
+>>**************************************************<<
+I fire bullet amount       : 1204
+My hit bullet amount       : 144
+                 Hit ratio : 11.960132890365449%
++-------------------------------------+
+Enemy fire bullet amount   : 1326
+Enemy  hit bullet amount   : 230
+                 Hit ratio : 17.345399698340874%
++-------------------------------------+
+Pogingen patroonherkenning : 2490
+Succes patroonherkenning   : 2423
+                     Ratio : 97.30923694779116%
+Gemiddelde patroonlengte   : 12
++-------------------------------------+
+Gemiddelde afstand         : 359.00949789591647
